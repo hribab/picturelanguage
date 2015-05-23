@@ -1,3 +1,4 @@
+Hi
 <?php
 
 if(!isset($_POST["text"])){
