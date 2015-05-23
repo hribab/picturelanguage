@@ -151,7 +151,7 @@ echo "<h1>Keywords</h1></br>";
 
 	for($i=0;$i<5;$i++)
 	{
-	echo $alckeywordarr["keywords"][$i]["text"]."</br>";
+	echo "</br".$alckeywordarr["keywords"][$i]["text"]."</br></br>";
 	$query = $alckeywordarr["keywords"][$i]["text"];
 		$serviceOp ='Image';
 		$market ='en-us';
@@ -173,8 +173,9 @@ echo "<h1>Keywords</h1></br>";
 		for($j=0;$j<5;$j++){
 			echo "<img src='".$response["d"]["results"][$j]["MediaUrl"]."' width='200' height='200' >";
 		}
-		}
 		echo "</br>";
+		}
+		
 	
 	}
 	
