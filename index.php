@@ -1,18 +1,13 @@
-Hi
-anotehr test
 
-asdf
-asd
-f 
-sd
-fa
-sdf
 <?php
 
 if(!isset($_POST["text"])){
 ?>
 <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
-   <input type="text" name="text"><br>
+  
+    <textarea rows="10" cols="70" name="text">
+some text
+</textarea></br>
    <input type="submit" name="submit" value="Submit"><br>
 </form>
 <?php
