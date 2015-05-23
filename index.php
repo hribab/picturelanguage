@@ -73,7 +73,7 @@ $response = file_get_contents($requestUri, 0, $context);
 $response=json_decode($response,true);
 $collection->insert(array($e["text"]=>$response));
 for($i=0;$i<5;$i++){
-echo $response["d"]["results"][$i]["MediaUrl"]."\n";
+echo "<img src='".$response["d"]["results"][$i]["MediaUrl"]."' width='200' height='200'>";
 
 }
 
@@ -106,7 +106,7 @@ $response=json_decode($response,true);
 $collection->insert(array($e["text"]=>$response));
 
 for($i=0;$i<4;$i++){
-echo $r["d"]["results"][$i]["MediaUrl"]."\n";
+echo "<img src='".$response["d"]["results"][$i]["MediaUrl"]."' width='200' height='200' >";
 
 }
 	
