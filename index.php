@@ -3,6 +3,7 @@
 
 if(!isset($_POST["text"])){
 ?>
+<h1> Enter Text for image </h1>
 <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
   
     <textarea rows="10" cols="70" name="text">
