@@ -67,16 +67,17 @@ if ($alcResponseArr['status'] == 'OK')
 	foreach ($alcResponseArr['relations'] as $relation) {
 		
 		if (array_key_exists('subject', $relation)) {
-			echo "Subject --".$relation['subject']['text']." ";
+			echo "Subject --".$relation['subject']['text']."</br> ";
 					}
 				
 		if (array_key_exists('action', $relation)) {
-			echo "Action --".$relation['action']['text']." ";
+			echo "Action --".$relation['action']['text']."</br> ";
 					}
 				
 		if (array_key_exists('object', $relation)) {
-			echo "Object --".$relation['object']['text'];
+			echo "Object --".$relation['object']['text']."</br> ";
 					}
+		echo "</br></br>";
 	}
 	}	
 	}
