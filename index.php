@@ -78,7 +78,7 @@ if ($alcResponseArr['status'] == 'OK')
 					}
 				
 		if (array_key_exists('object', $relation)) {
-			echo "Object --"..$relation['object']['text']." , ";
+			echo "Object --".$relation['object']['text'];
 					}
 	}
 	}	
