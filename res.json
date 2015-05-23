@@ -1,0 +1,1257 @@
+{
+        "d": {
+            "results": [
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=0&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "307e2dd5-62ba-4fac-9465-9522bd6ec34f",
+                    "Title": "Mr. Universe\u201d Jim Gaffigan",
+                    "MediaUrl": "http://sc.rumptio.us/wp-content/uploads/2012/04/gaffigan1.jpg",
+                    "SourceUrl": "http://sc.rumptio.us/gaffigan/",
+                    "DisplayUrl": "sc.rumptio.us/gaffigan",
+                    "Width": "1514",
+                    "Height": "1268",
+                    "FileSize": "113670",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.3MY0%2bt3Fw2AQGJpMw2miMw&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "251",
+                        "FileSize": "3095"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=1&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "73d00dfa-a973-4fbd-aac0-9eb042196c4a",
+                    "Title": "jim gaffigan jim gaffigan jim gaffigan",
+                    "MediaUrl": "http://3.bp.blogspot.com/-ZOVtm5QG8UY/UTnvGez7UoI/AAAAAAAADJE/xamiabKBt9I/s1600/Jim+Gaffigan+4.jpg",
+                    "SourceUrl": "http://www.depotpicture.com/2013/04/jim-gaffigan.html",
+                    "DisplayUrl": "www.depotpicture.com/2013/04/jim-gaffigan.html",
+                    "Width": "540",
+                    "Height": "720",
+                    "FileSize": "94383",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.tG0aCy%2f4Th3vzCGoMRTc4A&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "360",
+                        "Height": "480",
+                        "FileSize": "11378"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=2&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "206e51b7-75ec-4c08-8bff-832125e4c135",
+                    "Title": "Jim Gaffigan",
+                    "MediaUrl": "http://0.tqn.com/d/humor/1/0/Q/0/-/-/jim_gaffigan.jpg",
+                    "SourceUrl": "http://humor.about.com/od/blogstweetsemails/tp/20_funniest_comedian_tweet.htm",
+                    "DisplayUrl": "humor.about.com/od/blogstweetsemails/tp/20_funniest_comedian_tweet.htm",
+                    "Width": "640",
+                    "Height": "766",
+                    "FileSize": "29875",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.X7FqZpY6MkucD438q94MEw&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "250",
+                        "Height": "300",
+                        "FileSize": "5914"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=3&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "68770979-fc96-479c-8e34-59514d0e0e78",
+                    "Title": "Jim Gaffigan Quotes Cake Ccsu_gaffigan_holiday.jpg?",
+                    "MediaUrl": "http://comedycentral.mtvnimages.com/images/ccsu/ccsu_gaffigan/ccsu_gaffigan_holiday.jpg",
+                    "SourceUrl": "http://imgarcade.com/1/jim-gaffigan-quotes-cake/",
+                    "DisplayUrl": "imgarcade.com/1/jim-gaffigan-quotes-cake",
+                    "Width": "640",
+                    "Height": "360",
+                    "FileSize": "101023",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.HL%2fPVZyJOrI3WC%2bEhimzVA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "168",
+                        "FileSize": "3693"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=4&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "7fdbda27-8801-4097-aba4-fe7b5ee5e033",
+                    "Title": "Jim Gaffigan Actor Jim Gaffigan attends the \"It's Kind of a Funny ...",
+                    "MediaUrl": "http://www2.pictures.zimbio.com/gi/Jim+Gaffigan+Kind+Funny+Story+Premiere+NuPLRDwFIIVl.jpg",
+                    "SourceUrl": "http://www.zimbio.com/pictures/dGpiB19CWTP/Kind+Funny+Story+Premiere/NuPLRDwFIIV/Jim+Gaffigan",
+                    "DisplayUrl": "www.zimbio.com/pictures/dGpiB19CWTP/Kind+Funny+Story+Premiere...",
+                    "Width": "396",
+                    "Height": "594",
+                    "FileSize": "45651",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts3.mm.bing.net/th?id=JN.Qng5NhRjgrFydr%2f2Exqp2g&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "320",
+                        "Height": "480",
+                        "FileSize": "9331"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=5&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "11f2e51f-c62a-43b1-9566-c43040d61eaa",
+                    "Title": "Jim Gaffigan Comedy Pilot Being Redeveloped by CBS",
+                    "MediaUrl": "http://static.tvgcdn.net/MediaBin/Content/130729/News/5_fri/thumbs/130802Jim-Gaffigan1_210x305.jpg",
+                    "SourceUrl": "http://www.tvguide.com/celebrities/jim-gaffigan/news/157049",
+                    "DisplayUrl": "www.tvguide.com/celebrities/jim-gaffigan/news/157049",
+                    "Width": "210",
+                    "Height": "305",
+                    "FileSize": "39165",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts3.mm.bing.net/th?id=JN.voQYc06y3QvHzQ0kpVEO2w&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "206",
+                        "Height": "300",
+                        "FileSize": "6314"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=6&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "ed4c75c3-5194-4db6-8d77-9a064f200634",
+                    "Title": "Comedian Jim Gaffigan was born on this day, July 7, forty eight years ...",
+                    "MediaUrl": "http://theinterrobang.com/wp-content/uploads/2014/07/jim-gaffigan.jpg",
+                    "SourceUrl": "http://theinterrobang.com/15-hysterical-jim-gaffigan-quotes/",
+                    "DisplayUrl": "theinterrobang.com/15-hysterical-jim-gaffigan-quotes",
+                    "Width": "800",
+                    "Height": "450",
+                    "FileSize": "85644",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.oAVBKNCWStoERekT%2fc%2fGSQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "168",
+                        "FileSize": "3989"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=7&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "b8c40ffc-1440-4b59-8e5c-b7ad53d75947",
+                    "Title": "James Gaffigan",
+                    "MediaUrl": "https://pbs.twimg.com/profile_images/257896467/gaffigan5_low_400x400.jpg",
+                    "SourceUrl": "https://twitter.com/jamesgaffigan",
+                    "DisplayUrl": "https://twitter.com/jamesgaffigan",
+                    "Width": "400",
+                    "Height": "400",
+                    "FileSize": "12310",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts3.mm.bing.net/th?id=JN.ybcFOyX%2biKTDaNSmQj1%2bXA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "300",
+                        "FileSize": "3497"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=8&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "4415269b-5b81-4023-b98a-fd3f1e18d92e",
+                    "Title": "Inspired By Louis C.K., Jim Gaffigan Self-Distributing His Own Comedy ...",
+                    "MediaUrl": "http://www-deadline-com.vimg.net/wp-content/uploads/2012/02/Jim-Gaffigan1__120215063931.jpg",
+                    "SourceUrl": "http://www.deadline.com/2012/02/jim-gaffigan-self-distributing-comedy-special-like-louis-ck/",
+                    "DisplayUrl": "www.deadline.com/2012/02/jim-gaffigan-self-distributing-comedy...",
+                    "Width": "1428",
+                    "Height": "1859",
+                    "FileSize": "163651",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.INM03%2fj%2brbBV9Iyt8fWA3Q&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "368",
+                        "Height": "480",
+                        "FileSize": "10847"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=9&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "21642602-8407-41d7-8aa2-a820af4574aa",
+                    "Title": "James Gaffigan",
+                    "MediaUrl": "http://imgartists.com/uploads/artist_images/gaffigan_4.jpg",
+                    "SourceUrl": "http://imgartists.com/artist/james_gaffigan",
+                    "DisplayUrl": "imgartists.com/artist/james_gaffigan",
+                    "Width": "2204",
+                    "Height": "2804",
+                    "FileSize": "687841",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.a3VwJUbIixUncv9K%2b5S29g&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "235",
+                        "Height": "300",
+                        "FileSize": "3719"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=10&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "1d152b65-49dd-47e6-bd1f-df64ff2b543d",
+                    "Title": "Jim Gaffigan",
+                    "MediaUrl": "http://seek2015.com/wp-content/uploads/2014/04/gaffigan.jpg",
+                    "SourceUrl": "http://seek2015.com/jim-gaffigan/",
+                    "DisplayUrl": "seek2015.com/jim-gaffigan",
+                    "Width": "500",
+                    "Height": "405",
+                    "FileSize": "25517",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.GGlUOtqIBbDDHTwi2yNMyw&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "243",
+                        "FileSize": "4755"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=11&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "a5c70294-9f00-4d34-849c-c5c0520eb172",
+                    "Title": "jim gaffigan",
+                    "MediaUrl": "http://blogs.inlandsocal.com/iguide/jim_gaffigan.jpg",
+                    "SourceUrl": "http://janenetodeb.comuv.com/jim-gaffigan.php",
+                    "DisplayUrl": "janenetodeb.comuv.com/jim-gaffigan.php",
+                    "Width": "3600",
+                    "Height": "4984",
+                    "FileSize": "1840211",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts3.mm.bing.net/th?id=JN.hPjwtt0KvO1O1MhcoRsRsg&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "216",
+                        "Height": "300",
+                        "FileSize": "6722"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=12&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "97aebac2-99e5-4e68-b9d4-a4715ac8f255",
+                    "Title": "Hope I poop soon, though.\u2026 Hot pockeeeeeet\u2026.",
+                    "MediaUrl": "http://4.bp.blogspot.com/-SgagihNJZi0/TjERInJlmiI/AAAAAAAABnM/8-yRAv17wtw/s1600/jim-gaffigan-hot-pockets.jpg",
+                    "SourceUrl": "http://www.soundadoggymakes.com/2011/07/on-culinary-greatness.html",
+                    "DisplayUrl": "www.soundadoggymakes.com/2011/07/on-culinary-greatness.html",
+                    "Width": "480",
+                    "Height": "360",
+                    "FileSize": "47247",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts3.mm.bing.net/th?id=JN.nX7tZyAmJFVdYt4%2bg%2fOliw&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "225",
+                        "FileSize": "5283"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=13&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "c91fbb9f-b774-489b-9728-375dfccff5b4",
+                    "Title": "Jim Gaffigan",
+                    "MediaUrl": "http://d1ya1fm0bicxg1.cloudfront.net/jim-gaffigan_10-31-13_19_5272bb5ebe38c.jpg",
+                    "SourceUrl": "http://www.midlandkc.com/events/detail/244850",
+                    "DisplayUrl": "www.midlandkc.com/events/detail/244850",
+                    "Width": "678",
+                    "Height": "399",
+                    "FileSize": "46186",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.4hBX%2fVm251DsqjdV9Iy4dQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "176",
+                        "FileSize": "3768"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=14&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "d0a2abb6-89af-48dd-8a1e-dd05c1b4911c",
+                    "Title": "Jim Gaffigan Actor Attends...",
+                    "MediaUrl": "http://www.withfriendship.com/images/g/32728/Jim-Gaffigan-pic.jpg",
+                    "SourceUrl": "http://quoteko.com/jim-gaffigan.html",
+                    "DisplayUrl": "quoteko.com/jim-gaffigan.html",
+                    "Width": "600",
+                    "Height": "800",
+                    "FileSize": "43795",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.KBdRcMz%2bpYV6f2w%2f0mz3Vw&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "225",
+                        "Height": "300",
+                        "FileSize": "4748"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=15&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "da5d1f87-dfb3-41b8-99aa-020583336029",
+                    "Title": "James Gaffigan",
+                    "MediaUrl": "http://imgartists.com/uploads/artist_images/gaffigan_5.jpg",
+                    "SourceUrl": "http://imgartists.com/artist/james_gaffigan",
+                    "DisplayUrl": "imgartists.com/artist/james_gaffigan",
+                    "Width": "2229",
+                    "Height": "2231",
+                    "FileSize": "520364",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.djvZMjAwZ3XnJUTMx6EcyQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "299",
+                        "Height": "300",
+                        "FileSize": "4945"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=16&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "be803130-b432-4776-a95e-66d3ad6a02e3",
+                    "Title": "From Subway to McDonald\u2019s, comedian Jim Gaffigan had a score of menu ...",
+                    "MediaUrl": "http://uwire.com/wp-content/uploads/2012/05/Jim-Gaffigan.jpg",
+                    "SourceUrl": "http://uwire.com/2012/05/10/jim-gaffigan-stands-up-for-fast-food-bars-ohio-state/",
+                    "DisplayUrl": "uwire.com/2012/05/10/jim-gaffigan-stands-up-for-fast-food-bars-ohio...",
+                    "Width": "694",
+                    "Height": "488",
+                    "FileSize": "25162",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.zagy9Ic8wcfzicL9Dt76KQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "210",
+                        "FileSize": "5106"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=17&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "75f713d6-ac18-46e3-8a05-9133dc26c5e7",
+                    "Title": "Jim Gaffigan",
+                    "MediaUrl": "http://urbanmilwaukeedial.com/wp-content/uploads/2013/12/Gaffigan_Jim.jpg",
+                    "SourceUrl": "http://urbanmilwaukeedial.com/2013/12/23/comedy-beyond-the-pale/",
+                    "DisplayUrl": "urbanmilwaukeedial.com/2013/12/23/comedy-beyond-the-pale",
+                    "Width": "612",
+                    "Height": "612",
+                    "FileSize": "30180",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.TdO%2bri%2f7rVq4wOarxASQuw&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "300",
+                        "FileSize": "5369"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=18&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "d0673e2a-e82b-4838-be07-5ef5d1145e7a",
+                    "Title": "Philip Seymour Hoffman and Jim Gaffigan",
+                    "MediaUrl": "http://3.bp.blogspot.com/-fOeXELryEk4/Ub3pRwtlZeI/AAAAAAAAAPw/xFXgmFzumR8/s320/jim+gaffigan.jpg",
+                    "SourceUrl": "http://dailydoppel.blogspot.com/2013/06/philip-seymour-hoffman-and-jim-gaffigan.html",
+                    "DisplayUrl": "dailydoppel.blogspot.com/2013/06/philip-seymour-hoffman-and-jim...",
+                    "Width": "206",
+                    "Height": "300",
+                    "FileSize": "13330",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.Fz13h%2bpCZDCsGuGlYOeghQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "206",
+                        "Height": "300",
+                        "FileSize": "6179"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=19&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "1eaa67b8-e1d7-4815-97dd-4006f8686d64",
+                    "Title": "Jeannie Gaffigan 2011 Stand Up For Heroes",
+                    "MediaUrl": "http://www4.pictures.zimbio.com/gi/Jeannie+Gaffigan+cFGBUmPvcv5m.jpg",
+                    "SourceUrl": "http://www.zimbio.com/Jeannie+Gaffigan",
+                    "DisplayUrl": "www.zimbio.com/Jeannie+Gaffigan",
+                    "Width": "360",
+                    "Height": "240",
+                    "FileSize": "26958",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.pFnqLgys8lMBVLukxHPttQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "200",
+                        "FileSize": "7841"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=20&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "5097e9b0-1a59-4738-b1b3-4aad707d9be7",
+                    "Title": "Jim Gaffigan Pictures",
+                    "MediaUrl": "http://trialx.com/curetalk/wp-content/blogs.dir/7/files/2011/04/gcelebrities/Jim_Gaffigan-3.jpg",
+                    "SourceUrl": "http://trialx.com/celebrities/2011/07/02/jim-gaffigan-pictures/",
+                    "DisplayUrl": "trialx.com/celebrities/2011/07/02/jim-gaffigan-pictures",
+                    "Width": "1618",
+                    "Height": "2400",
+                    "FileSize": "1847327",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.BrpFxbltsq878JrRy1Le1w&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "323",
+                        "Height": "480",
+                        "FileSize": "12726"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=21&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "77ef3a41-1f19-4494-a00a-2aa931b1a85b",
+                    "Title": "Jim Gaffigan stopped by \"Conan\" on Thursday to promote his new special ...",
+                    "MediaUrl": "http://i.huffpost.com/gen/568240/thumbs/s-GAFFIGAN-large.jpg",
+                    "SourceUrl": "http://www.huffingtonpost.com/2012/04/13/jim-gaffigan-thinks-phone-photos-ruin-children_n_1423919.html",
+                    "DisplayUrl": "www.huffingtonpost.com/2012/04/13/jim-gaffigan-thinks-phone-photos...",
+                    "Width": "260",
+                    "Height": "190",
+                    "FileSize": "8276",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.CICxuDlgX6ZLcG1k8G0Tuw&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "260",
+                        "Height": "190",
+                        "FileSize": "3844"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=22&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "4e642701-5f5f-4150-ad99-59eda5df6b39",
+                    "Title": "Jim Gaffigan attends the 'One Man, Two Guvnors' Broadway opening night ...",
+                    "MediaUrl": "http://stars.topnews.in/sites/default/files/jim-gaffigan1.jpg",
+                    "SourceUrl": "http://stars.topnews.in/220550-jim-gaffigan-attends-one-man-two-guvnors-broadway-opening-night-music-box-theatre",
+                    "DisplayUrl": "stars.topnews.in/220550-jim-gaffigan-attends-one-man-two-guvnors...",
+                    "Width": "396",
+                    "Height": "615",
+                    "FileSize": "27279",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.b1JzjM%2bcrYUTZvUvwt4Hfw&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "193",
+                        "Height": "300",
+                        "FileSize": "6683"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=23&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "20da5b56-6d86-469a-a2d2-18d5df68f9fa",
+                    "Title": "Jim Gaffigan Jim Gaffigan",
+                    "MediaUrl": "http://images.fanpop.com/images/image_uploads/Jim-Gaffigan-jim-gaffigan-487772_852_480.jpg",
+                    "SourceUrl": "http://www.fanpop.com/clubs/jim-gaffigan/images/487772/title/jim-gaffigan-photo",
+                    "DisplayUrl": "www.fanpop.com/clubs/jim-gaffigan/images/487772/title/jim-gaffigan...",
+                    "Width": "852",
+                    "Height": "480",
+                    "FileSize": "29709",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.3UrSEuSxm8Ka%2byKCr2a5tA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "168",
+                        "FileSize": "3834"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=24&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "cb7c20f7-5cc1-41c2-ac1f-2ea5396dd5ef",
+                    "Title": "jim_gaffigan_2014_04_20.jpg",
+                    "MediaUrl": "http://img.spokeo.com/public/900-600/jim_gaffigan_2014_04_20.jpg",
+                    "SourceUrl": "http://muzik.geliyoo.com/artist/id:24256372/Jim_Gaffigan",
+                    "DisplayUrl": "muzik.geliyoo.com/artist/id:24256372/Jim_Gaffigan",
+                    "Width": "443",
+                    "Height": "600",
+                    "FileSize": "38023",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.jlbRc%2fWyIPMt6OcBuopsZw&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "221",
+                        "Height": "300",
+                        "FileSize": "4973"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=25&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "d6209cdd-7b7b-4d27-ab2c-de87e0aec91b",
+                    "Title": "in Jerusalem, Jim Gaffigan",
+                    "MediaUrl": "http://israelity.com/wp-content/2010/04/Jim_Gaffigan.jpg",
+                    "SourceUrl": "http://topoveralls.blogspot.com/2010/05/jim-gaffigan-photos.html",
+                    "DisplayUrl": "topoveralls.blogspot.com/2010/05/jim-gaffigan-photos.html",
+                    "Width": "1600",
+                    "Height": "2000",
+                    "FileSize": "3931331",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.%2fdROssbww%2fG7MtBKVjGRNQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "240",
+                        "Height": "300",
+                        "FileSize": "7447"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=26&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "8c57e91d-c562-4e06-91d8-565aed3ef9a7",
+                    "Title": "Jim Gaffigan Brings the Laughs to Savannah",
+                    "MediaUrl": "http://www.stayinsavannah.com/blog/wp-content/uploads/2012/07/jim-gaffigan.jpg",
+                    "SourceUrl": "http://stayinsavannah.com/blog/savannah-events/jim-gaffigan-brings-the-laughs-to-savannah/",
+                    "DisplayUrl": "stayinsavannah.com/blog/savannah-events/jim-gaffigan-brings-the...",
+                    "Width": "375",
+                    "Height": "388",
+                    "FileSize": "96395",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.wM0d3kUjzt5hwOsRuagcrA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "289",
+                        "Height": "300",
+                        "FileSize": "9328"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=27&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "fca0ff50-959d-4e65-b0ce-b754a70ba533",
+                    "Title": "Home » Jeannie Gaffigan » Jim Gaffigan Attending The Opening Night ...",
+                    "MediaUrl": "http://images.bwwstatic.com/upload5/215813/tn-500_gaffiganwm91691814925.jpg",
+                    "SourceUrl": "http://www.imagesbee.com/jeannie-gaffigan/view/jim-gaffigan-attending-the-opening-night-performance-after-party-for/",
+                    "DisplayUrl": "www.imagesbee.com/jeannie-gaffigan/view/jim-gaffigan-attending-the...",
+                    "Width": "472",
+                    "Height": "600",
+                    "FileSize": "141463",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.X8LxOeeKOjO6fM7%2fvt%2f2CQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "236",
+                        "Height": "300",
+                        "FileSize": "7535"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=28&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "795a8d22-4e66-40bc-b8dd-b44d6307f481",
+                    "Title": "james gaffigan",
+                    "MediaUrl": "http://www.juilliard.edu/sites/default/files/2012/05/Gaffigan_hires.jpg",
+                    "SourceUrl": "http://www.juilliard.edu/about/newsroom/2010-11/conductor-james-gaffigan-replace-jeffrey-kahane-october-25-juilliard",
+                    "DisplayUrl": "www.juilliard.edu/about/newsroom/2010-11/conductor-james-gaffigan...",
+                    "Width": "2400",
+                    "Height": "2400",
+                    "FileSize": "1353369",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.JIZhyM0AVv9qdZAExehHmg&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "300",
+                        "FileSize": "8512"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=29&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "565a642d-172c-4eb6-b1d0-ecaa0705fbbf",
+                    "Title": "141119_2829589_jim_gaffigan_stand_up.jpg",
+                    "MediaUrl": "http://www.nbc.com/the-tonight-show/content/sites/nbcutsjf/files/images/2014/11/19/141119_2829589_jim_gaffigan_stand_up.jpg",
+                    "SourceUrl": "http://www.nbc.com/the-tonight-show/segments/69886",
+                    "DisplayUrl": "www.nbc.com/the-tonight-show/segments/69886",
+                    "Width": "1920",
+                    "Height": "1080",
+                    "FileSize": "697236",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.ebTSD24HfPn2WzlKt7OT9Q&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "168",
+                        "FileSize": "4912"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=30&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "1a57d5dd-fb7d-43ab-a1e4-41c1a9297717",
+                    "Title": "Jim Gaffigan Pictures & Photos",
+                    "MediaUrl": "http://images.starpulse.com/pictures/2010/10/04/previews/Jim%20Gaffigan-DWO-000139.jpg",
+                    "SourceUrl": "http://www.starpulse.com/Actors/Gaffigan,_Jim/gallery/DWO-000139/",
+                    "DisplayUrl": "www.starpulse.com/Actors/Gaffigan,_Jim/gallery/DWO-000139",
+                    "Width": "370",
+                    "Height": "644",
+                    "FileSize": "47726",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts3.mm.bing.net/th?id=JN.l1PdPuUH2og58Ozx0tU8KQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "171",
+                        "Height": "300",
+                        "FileSize": "8493"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=31&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "c951b243-5971-44a8-9ae2-f482cfb65a9e",
+                    "Title": "Jim Gaffigan",
+                    "MediaUrl": "http://cdn0.carltoninnmidway.com/wp-content/uploads/2013/04/Jim-Gaffigan.png",
+                    "SourceUrl": "http://www.carltoninnmidway.com/event/jim-gaffigan/jim-gaffigan/",
+                    "DisplayUrl": "www.carltoninnmidway.com/event/jim-gaffigan/jim-gaffigan",
+                    "Width": "1200",
+                    "Height": "682",
+                    "FileSize": "360692",
+                    "ContentType": "image/png",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.qRRXPv7KZ%2fa8Z7zCqEHeJA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "170",
+                        "FileSize": "4051"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=32&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "4f8f8582-834a-499f-b9b2-e3a1fd94ab99",
+                    "Title": "Jeannie Gaffigan Jeannie Gaffigan and comedian Jim Gaffigan attend ...",
+                    "MediaUrl": "http://www3.pictures.zimbio.com/gi/Jeannie+Gaffigan+Comedy+Central+Night+Many+aUsSNP1ladOl.jpg",
+                    "SourceUrl": "http://www.zimbio.com/pictures/rceWHIKfxaj/Comedy+Central+Night+Many+Stars+Overbooked/aUsSNP1ladO/Jeannie+Gaffigan",
+                    "DisplayUrl": "www.zimbio.com/pictures/rceWHIKfxaj/Comedy+Central+Night+Many+Stars...",
+                    "Width": "398",
+                    "Height": "594",
+                    "FileSize": "69713",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts3.mm.bing.net/th?id=JN.kQfZxrnyBjGT1bidpxZLbA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "321",
+                        "Height": "480",
+                        "FileSize": "18307"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=33&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "c8e3f210-0cad-422e-89a1-2cb0f74001df",
+                    "Title": "... jim gaffigan entertainment jim gaffigan ava amphitheater this",
+                    "MediaUrl": "http://www.casinodelsolresort.com/wp-content/uploads/jim-gaffigan-tucson-concert-ava-1100x378.jpg",
+                    "SourceUrl": "http://www.casinodelsolresort.com/events/jim-gaffigan",
+                    "DisplayUrl": "www.casinodelsolresort.com/events/jim-gaffigan",
+                    "Width": "1100",
+                    "Height": "378",
+                    "FileSize": "93699",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.EYsszqBK6sp6JRnv6dAZDA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "103",
+                        "FileSize": "8792"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=34&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "1851c22b-34bc-4e6e-86fc-61fe12fcbbb2",
+                    "Title": "Jim Gaffigan has been bringing us plenty of laughs for years and ...",
+                    "MediaUrl": "http://desktop.fansshare.com/pictures/jimgaffigan/jim-gaffigan-1239670023.jpg",
+                    "SourceUrl": "http://desktop.fansshare.com/celebrities/jim-gaffigan/",
+                    "DisplayUrl": "desktop.fansshare.com/celebrities/jim-gaffigan",
+                    "Width": "478",
+                    "Height": "978",
+                    "FileSize": "54318",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.Mh50%2fwZjzQ8ITLFMh7xU0g&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "146",
+                        "Height": "300",
+                        "FileSize": "4259"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=35&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "9b614e50-410e-44a6-ac9a-b6a84030d622",
+                    "Title": "James Gaffigan",
+                    "MediaUrl": "http://www.luzernertheater.ch/sites/default/files/imagecache/ensemble_person_big/James-Gaffigan.jpg",
+                    "SourceUrl": "http://www.luzernertheater.ch/node/578",
+                    "DisplayUrl": "www.luzernertheater.ch/node/578",
+                    "Width": "648",
+                    "Height": "395",
+                    "FileSize": "87375",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.DdJLf8WrATT89Ro3RjbpNA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "182",
+                        "FileSize": "4594"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=36&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "73aab444-49a4-4980-85b6-3c99ee46cd77",
+                    "Title": "YouTube Jim Gaffigan",
+                    "MediaUrl": "http://s3.evcdn.com/images/edpborder500/I0-001/000/158/758-7.jpg_/jim-gaffigan-58.jpg",
+                    "SourceUrl": "http://www.marktewartlive.com/picxhrj/YouTube-Jim-Gaffigan.html",
+                    "DisplayUrl": "www.marktewartlive.com/picxhrj/YouTube-Jim-Gaffigan.html",
+                    "Width": "500",
+                    "Height": "500",
+                    "FileSize": "14943",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.kntHEk2kbSmenXfj4ntNOg&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "300",
+                        "FileSize": "3685"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=37&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "58458471-fa7b-42b8-97aa-622cd4b2b0a0",
+                    "Title": "sunmo0208opinion-jim-gaffigan-valentines-day342082640x360.jpg",
+                    "MediaUrl": "http://cbsnews2.cbsistatic.com/hub/i/r/2015/02/08/b9c04fe0-7756-4c79-964a-b465302bc5a1/thumbnail/940x470/2d73e505ef39054a49894215f0c14374/sunmo0208opinion-jim-gaffigan-valentines-day342082640x360.jpg",
+                    "SourceUrl": "http://www.cbsnews.com/videos/jim-gaffigan-on-valentines-day/",
+                    "DisplayUrl": "www.cbsnews.com/videos/jim-gaffigan-on-valentines-day",
+                    "Width": "940",
+                    "Height": "470",
+                    "FileSize": "44286",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.Hqk%2feNOZnowOr3By%2fZCTNA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "150",
+                        "FileSize": "7465"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=38&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "40744210-16a8-433a-84e6-9bb6c564bf31",
+                    "Title": "Jim Gaffigan",
+                    "MediaUrl": "http://0.tqn.com/d/comedians/1/0/2/6/-/-/Jim-Gaffigan-King-Baby-2.jpg",
+                    "SourceUrl": "http://comedians.about.com/od/top10lists/tp/fivecleancomedians.htm",
+                    "DisplayUrl": "comedians.about.com/od/top10lists/tp/fivecleancomedians.htm",
+                    "Width": "640",
+                    "Height": "725",
+                    "FileSize": "173990",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts3.mm.bing.net/th?id=JN.Zj2jtP6Y1gvrZXQdrFd5rQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "264",
+                        "Height": "300",
+                        "FileSize": "5812"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=39&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "206ea316-2dc4-4468-bbde-f51dbb9f819d",
+                    "Title": "The Morrison Center presents comedian Jim Gaffigan\u2019s \u201cThe White ...",
+                    "MediaUrl": "http://news.boisestate.edu/update/files/2014/07/Jim-Gaffigan.jpg",
+                    "SourceUrl": "http://news.boisestate.edu/update/2014/07/29/comedian-jim-gaffigan-morrison-center-oct-3/",
+                    "DisplayUrl": "news.boisestate.edu/update/2014/07/29/comedian-jim-gaffigan...",
+                    "Width": "533",
+                    "Height": "800",
+                    "FileSize": "41939",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.tSOnDYVZBSyBtkC%2f2P%2fkng&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "199",
+                        "Height": "300",
+                        "FileSize": "5289"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=40&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "64d1a6e1-87a8-4d9a-bbf3-af86e314d086",
+                    "Title": "Jim Gaffigan",
+                    "MediaUrl": "http://media.jrn.com/images/30001193-mjs_gaffigan06.jpg",
+                    "SourceUrl": "http://www.thefamouspix.com/Jim-Gaffigan.html",
+                    "DisplayUrl": "www.thefamouspix.com/Jim-Gaffigan.html",
+                    "Width": "1750",
+                    "Height": "2400",
+                    "FileSize": "553676",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.Tqkxo752zuNXfwXk8VYuOg&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "218",
+                        "Height": "300",
+                        "FileSize": "4477"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=41&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "e61ec736-2b30-4c18-b59e-f8bf69747e55",
+                    "Title": "Comedian Gaffigan",
+                    "MediaUrl": "http://bedfordandbowery.com/wp-content/uploads/2013/09/Jim-Gaffigan..jpg",
+                    "SourceUrl": "http://www.thecelebritypix.com/Comedian-Gaffigan.html",
+                    "DisplayUrl": "www.thecelebritypix.com/Comedian-Gaffigan.html",
+                    "Width": "3648",
+                    "Height": "2736",
+                    "FileSize": "1596605",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.WFxRYaFKhv5a%2fX8dxJ4UBA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "225",
+                        "FileSize": "6079"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=42&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "b7ae3477-b9ac-4db3-96d4-4e0c8c4c7566",
+                    "Title": "Jim Gaffigan Tour Reviews",
+                    "MediaUrl": "http://pixel.nymag.com/content/dam/daily/vulture/2012/02/15/15_jimgaffigan.jpg",
+                    "SourceUrl": "http://www.thecelebritypix.com/Jim-Gaffigan-Tour-Reviews.html",
+                    "DisplayUrl": "www.thecelebritypix.com/Jim-Gaffigan-Tour-Reviews.html",
+                    "Width": "2255",
+                    "Height": "3000",
+                    "FileSize": "2674780",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts3.mm.bing.net/th?id=JN.LCMznA%2bj31gAfMPuqGhcLQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "225",
+                        "Height": "300",
+                        "FileSize": "7942"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=43&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "91042085-c024-4fa1-9137-da1b0ba08a1e",
+                    "Title": "gaffigan poster pic",
+                    "MediaUrl": "http://www.etsu.edu/sga/pictures/Jim%20Gaffigan%20Poster.jpg",
+                    "SourceUrl": "http://www.etsu.edu/sga/events.aspx",
+                    "DisplayUrl": "www.etsu.edu/sga/events.aspx",
+                    "Width": "1650",
+                    "Height": "2550",
+                    "FileSize": "2820722",
+                    "ContentType": "image/png",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts4.mm.bing.net/th?id=JN.uVSf%2brQCYfoVr8wli2Cp7Q&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "194",
+                        "Height": "300",
+                        "FileSize": "10393"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=44&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "266dbfee-9aff-476a-9117-e3dd76397a77",
+                    "Title": "Jim Gaffigan Jim Gaffigan Jim Gaffigan Jim Gaffigan Jim Gaffigan",
+                    "MediaUrl": "http://media.dead-frog.com/comics/jim_gaffigan.jpg",
+                    "SourceUrl": "http://shortnewsposter.com/tag/jim-gaffigan-jim-gaffigan-jim-gaffigan-jim-gaffigan-jim-gaffigan",
+                    "DisplayUrl": "shortnewsposter.com/tag/jim-gaffigan-jim-gaffigan-jim-gaffigan-jim...",
+                    "Width": "150",
+                    "Height": "200",
+                    "FileSize": "12303",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.DHPfrvXNHyzhRFJzi2SQWg&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "150",
+                        "Height": "200",
+                        "FileSize": "7683"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=45&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "1a165c36-939b-4f37-9b3a-328831e72c74",
+                    "Title": "ATTACHMENT - Casting: Jim Gaffigan and Kate Walsh Head for 'State",
+                    "MediaUrl": "http://powergrid.thewrap.com/sites/default/files/jim_gaffigan_2012_04_18.jpg",
+                    "SourceUrl": "http://shortnewsposter.com/tag/jim-gaffigan-jim-gaffigan-jim-gaffigan-jim-gaffigan-jim-gaffigan",
+                    "DisplayUrl": "shortnewsposter.com/tag/jim-gaffigan-jim-gaffigan-jim-gaffigan-jim...",
+                    "Width": "411",
+                    "Height": "518",
+                    "FileSize": "58122",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.sxDJFt%2fVImD1tE42O5TQXw&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "238",
+                        "Height": "300",
+                        "FileSize": "7609"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=46&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "2997a50d-c23b-483f-98e2-e3975bb29839",
+                    "Title": "Jim Gaffigan Pens Deal for Second Book",
+                    "MediaUrl": "http://images.amcnetworks.com/ifc.com/wp-content/uploads/2013/06/jim-gaffigan.jpg",
+                    "SourceUrl": "http://www.ifc.com/fix/2013/06/jim-gaffigan-pens-deal-for-second-book",
+                    "DisplayUrl": "www.ifc.com/fix/2013/06/jim-gaffigan-pens-deal-for-second-book",
+                    "Width": "620",
+                    "Height": "375",
+                    "FileSize": "128952",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.KV1oMa5v47l0K%2bVzSrqxwA&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "181",
+                        "FileSize": "6503"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=47&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "599015bd-344f-40c1-a88e-c2bea1c73fa3",
+                    "Title": "James GAFFIGAN / dirigent",
+                    "MediaUrl": "http://ticketing.ceskafilharmonie.cz/james-gaffigan--c--mat-hennek-3-d2315.jpg?w=270&h=360&t=773",
+                    "SourceUrl": "http://www.ceskafilharmonie.cz/detail/James-Gaffigan-se209.html",
+                    "DisplayUrl": "www.ceskafilharmonie.cz/detail/James-Gaffigan-se209.html",
+                    "Width": "270",
+                    "Height": "360",
+                    "FileSize": "42698",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts2.mm.bing.net/th?id=JN.T%2fnfWxmM5yPWnAyBCkIFEg&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "225",
+                        "Height": "300",
+                        "FileSize": "12569"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=48&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "d5f6c351-aec8-4b87-8f0e-8e0d3468cf3c",
+                    "Title": "Related Pictures jim gaffigan",
+                    "MediaUrl": "http://statusupdated.com/wp-content/uploads/2013/08/jim-gaffigan-quote-meme-bologna.jpg",
+                    "SourceUrl": "http://funny-pictures.picphotos.net/jim-gaffigan/brainguidance.com*wp-content*uploads*2013*12*jim-gaffigan-80092-740x477.jpg/",
+                    "DisplayUrl": "funny-pictures.picphotos.net/jim-gaffigan/brainguidance.com*wp...",
+                    "Width": "798",
+                    "Height": "439",
+                    "FileSize": "53146",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts3.mm.bing.net/th?id=JN.layam3tkYp%2bMQS6coUsxlQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "165",
+                        "FileSize": "7580"
+                    }
+                },
+                {
+                    "__metadata": {
+                        "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=49&$top=1",
+                        "type": "ImageResult"
+                    },
+                    "ID": "0b937675-ab6d-4ffd-8adf-e075cfb8e915",
+                    "Title": "Comedian and actor Jim Gaffigan will have to share his Hot Pockets. He ...",
+                    "MediaUrl": "http://www.celebutopia.net/wp-content/uploads/2009/05/gaffigan.jpg",
+                    "SourceUrl": "http://www.celebutopia.net/2009/05/a-girl-for-jim-gaffigan/",
+                    "DisplayUrl": "www.celebutopia.net/2009/05/a-girl-for-jim-gaffigan",
+                    "Width": "424",
+                    "Height": "300",
+                    "FileSize": "19519",
+                    "ContentType": "image/jpeg",
+                    "Thumbnail": {
+                        "__metadata": {
+                            "type": "Bing.Thumbnail"
+                        },
+                        "MediaUrl": "http://ts1.mm.bing.net/th?id=JN.Ti0sdLHerRHp9i7yqRFDqQ&pid=15.1",
+                        "ContentType": "image/jpg",
+                        "Width": "300",
+                        "Height": "212",
+                        "FileSize": "6135"
+                    }
+                }
+            ],
+            "__next": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Gaffigan'&Market='en-us'&$skip=50"
+        }
+    }

@@ -73,7 +73,10 @@ $response = file_get_contents($requestUri, 0, $context);
 $response=json_decode($response,true);
 $collection->insert(array($e["text"]=>$response));
 
+foreach($response["d"]["results"] as $r2){
+echo "<img src='".$r2["MediaUrl"]."' width='200' height='200'>";
 
+}
 
 
 
@@ -103,6 +106,10 @@ $response = file_get_contents($requestUri, 0, $context);
 $response=json_decode($response,true);
 $collection->insert(array($e["text"]=>$response));
 
+foreach($response["d"]["results"] as $r2){
+echo "<img src='".$r2["MediaUrl"]."' width='200' height='200'>";
+
+}
 	
 		
 		}
