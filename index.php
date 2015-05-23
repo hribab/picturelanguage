@@ -25,7 +25,7 @@ echo $text."</br>";
 
 include "module/AlchemyAPI.php";
 
-$con=new Mongo("mongodb://picturelanguage:haribabu123@ds035702.mongolab.com:35702/picturelanguage");
+$con=new MongoClient("mongodb://picturelanguage:haribabu123@ds035702.mongolab.com:35702/picturelanguage");
 $dbname = $con->selectDB('picturelanguage'); // this is where feed urls stores
 $collection = $dbname->selectCollection("picturelanguage");
 
@@ -170,8 +170,8 @@ echo "<h1>Keywords</h1></br>";
 		$response = file_get_contents($requestUri, 0, $context);
 		$response=json_decode($response,true);
 		$collection->insert(array($e["text"]=>$response));
-		for($i=0;$i<5;$i++){
-			echo "<img src='".$response["d"]["results"][$i]["MediaUrl"]."' width='200' height='200'>";
+		for($j=0;$j<5;$j++){
+			echo "<img src='".$response["d"]["results"][$j]["MediaUrl"]."' width='200' height='200' >";
 		}
 		}
 		echo "</br>";
