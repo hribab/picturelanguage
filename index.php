@@ -72,9 +72,8 @@ $context = stream_context_create($data);
 $response = file_get_contents($requestUri, 0, $context);
 $response=json_decode($response,true);
 $collection->insert(array($e["text"]=>$response));
-
-foreach($response["d"]["results"] as $r2){
-echo "<img src='".$r2["MediaUrl"]."' width='200' height='200'>";
+for($i=0;$i<5;$i++){
+echo $response["d"]["results"][$i]["MediaUrl"]."\n";
 
 }
 
@@ -106,14 +105,15 @@ $response = file_get_contents($requestUri, 0, $context);
 $response=json_decode($response,true);
 $collection->insert(array($e["text"]=>$response));
 
-foreach($response["d"]["results"] as $r2){
-echo "<img src='".$r2["MediaUrl"]."' width='200' height='200'>";
+for($i=0;$i<4;$i++){
+echo $r["d"]["results"][$i]["MediaUrl"]."\n";
 
 }
 	
 		
 		}
-  }
+ 
+} 
   
 echo "</br></br></br>";
  echo "<h1>Relations</h1></br>";
