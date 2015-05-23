@@ -150,9 +150,11 @@ echo "</br></br></br>";
 echo "<h1>Keywords</h1></br>";
 
 	for($i=0;$i<5;$i++)
-	{
-	echo "</br".$alckeywordarr["keywords"][$i]["text"]."</br></br>";
-	$query = $alckeywordarr["keywords"][$i]["text"];
+	{	
+		echo "</br>";
+		echo "test";
+		echo $alckeywordarr["keywords"][$i]["text"];
+		$query = $alckeywordarr["keywords"][$i]["text"];
 		$serviceOp ='Image';
 		$market ='en-us';
 		$query = urlencode("'$query'");
