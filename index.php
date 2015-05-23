@@ -177,7 +177,8 @@ echo "<h1>Keywords</h1></br>";
 		}
 		echo "</br>";
 		}
-		
+	
+echo "<h1> Goal is to give you single minimal image that conveys what text exactly mean</h1> ";
 	
 	}
 	
