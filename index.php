@@ -1,26 +1,12 @@
 
 <?php
 
-if(!isset($_POST["text"])){
-?>
-<h1> Enter Text for image </h1>
-<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
-  
-    <textarea rows="10" cols="70" name="text">
-some text
-</textarea></br>
-   <input type="submit" name="submit" value="Submit"><br>
-</form>
-<?php
-}
-else{
 
-
-$text=$_POST['text'];
+$text="Gaffigan was also one of the first comedians to sell his specials online, and he sees the Internet as a great place to get noticed in comedy. While it helps that he has 5 million or so Twitter followers, he wants to see comedians, performers, and producers embrace the Internet and not fear it… a tall order from an industry that still doesn’t know what the make of a great comedian giving away his first show for free.";
 
 include "module/AlchemyAPI.php";
 
-$con=new Mongo(" mongodb://picturelanguage:haribabu123@ds035702.mongolab.com:35702/picturelanguage");
+$con=new MongoClient("mongodb://picturelanguage:haribabu123@ds035702.mongolab.com:35702/picturelanguage");
 $dbname = $con->selectDB('picturelanguage'); // this is where feed urls stores
 $collection = $dbname->selectCollection("picturelanguage");
 
@@ -78,5 +64,5 @@ if ($alcResponseArr['status'] == 'OK')
 					}
 	}
 	}	
-	}
+	
 ?>
