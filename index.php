@@ -45,78 +45,81 @@ $alcResponseArr = json_decode($alcRelations, true);
 
 $ab=array_merge($alcEntityArr,$alcResponseArr);
 $collection->insert($ab);
-				
-foreach($alcEntityArr['entities'] as $e)
-{	 
-				
-	if(trim($e['type']) == "Person") 
-	    {
-		
-		echo "<h1>People</h1></br>";
-	    echo $e["text"]."</br>";
-		$query = $e["text"];
-$serviceOp ='Image';
-$market ='en-us';
-$query = urlencode("'$query'");
-$market = urlencode("'$market'");
-$requestUri = "$rootUri/$serviceOp?\$format=json&Query=$query&Market=$market";
-$auth = base64_encode("$acctKey:$acctKey");
-$data = array(  
-            'http' => array(
-                        'request_fulluri' => true,
-                        'ignore_errors' => true,
-                        'header' => "Authorization: Basic $auth"
-                        )
-            );
-$context = stream_context_create($data);
-$response = file_get_contents($requestUri, 0, $context);
-$response=json_decode($response,true);
-$collection->insert(array($e["text"]=>$response));
-for($i=0;$i<5;$i++){
-echo "<img src='".$response["d"]["results"][$i]["MediaUrl"]."' width='200' height='200'>";
-
-}
-
-
-
-		}				
-	if(trim($e['type']) == "Company")
-				{
-				
-		echo "<h1>Company</h1></br>";
-	    echo $e["text"]."</br>";
-		$query = $e["text"];
-$serviceOp ='Image';
-$market ='en-us';
-$query = urlencode("'$query'");
-$market = urlencode("'$market'");
-$requestUri = "$rootUri/$serviceOp?\$format=json&Query=$query&Market=$market";
-$auth = base64_encode("$acctKey:$acctKey");
-$data = array(  
-            'http' => array(
-                        'request_fulluri' => true,
-                        'ignore_errors' => true,
-                        'header' => "Authorization: Basic $auth"
-                        )
-            );
-$context = stream_context_create($data);
-$response = file_get_contents($requestUri, 0, $context);
-
-$response=json_decode($response,true);
-$collection->insert(array($e["text"]=>$response));
-
-for($i=0;$i<4;$i++){
-echo "<img src='".$response["d"]["results"][$i]["MediaUrl"]."' width='200' height='200' >";
-
-}
 	
+echo "<h1>People</h1></br>";
 		
+	foreach($alcEntityArr['entities'] as $e)
+	{	 			
+		if(trim($e['type']) == "Person") 
+	    {
+		echo $e["text"]."</br>";
+		$query = $e["text"];
+		$serviceOp ='Image';
+		$market ='en-us';
+		$query = urlencode("'$query'");
+		$market = urlencode("'$market'");
+		$requestUri = "$rootUri/$serviceOp?\$format=json&Query=$query&Market=$market";
+		$auth = base64_encode("$acctKey:$acctKey");
+		$data = array(  
+            'http' => array(
+                        'request_fulluri' => true,
+                        'ignore_errors' => true,
+                        'header' => "Authorization: Basic $auth"
+                        )
+            );
+		$context = stream_context_create($data);
+		$response = file_get_contents($requestUri, 0, $context);
+		$response=json_decode($response,true);
+		$collection->insert(array($e["text"]=>$response));
+		for($i=0;$i<5;$i++){
+			echo "<img src='".$response["d"]["results"][$i]["MediaUrl"]."' width='200' height='200'>";
 		}
- 
-} 
-  
+		}
+	}
+echo "<h1>Company</h1></br>";
+
+	foreach($alcEntityArr['entities'] as $e)
+	{		 			
+	if(trim($e['type']) == "Company")
+	{
+		echo $e["text"]."</br>";
+		$query = $e["text"];
+		$serviceOp ='Image';
+		$market ='en-us';
+		$query = urlencode("'$query'");
+		$market = urlencode("'$market'");
+		$requestUri = "$rootUri/$serviceOp?\$format=json&Query=$query&Market=$market";
+		$auth = base64_encode("$acctKey:$acctKey");
+		$data = array(  
+            'http' => array(
+                        'request_fulluri' => true,
+                        'ignore_errors' => true,
+                        'header' => "Authorization: Basic $auth"
+                        )
+            );
+		$context = stream_context_create($data);
+		$response = file_get_contents($requestUri, 0, $context);
+		$response=json_decode($response,true);
+		$collection->insert(array($e["text"]=>$response));
+		for($i=0;$i<4;$i++){
+			echo "<img src='".$response["d"]["results"][$i]["MediaUrl"]."' width='200' height='200' >";
+		}
+	}
+	}	 
+		
+echo "<h1>Other Entities</h1></br>";
+
+
+	foreach($alcEntityArr['entities'] as $e)
+	{	 			
+	if(trim($e['type']) != "Company" && trim($e['type']) != "Person")
+	{
+		echo $e["text"]."</br>";
+	}
+	} 
+
 echo "</br></br></br>";
- echo "<h1>Relations</h1></br>";
+echo "<h1>Relations</h1></br>";
   
 if ($alcResponseArr['status'] == 'OK') 
 	{
