@@ -70,10 +70,10 @@ $data = array(
             );
 $context = stream_context_create($data);
 $response = file_get_contents($requestUri, 0, $context);
-$response=json_decode($response);
-echo "<pre>";
-print_r($response);
-echo "</pre>";
+$response=json_decode($response,true);
+$collection->insert(array($e["text"]=>$response));
+
+
 
 
 
@@ -99,10 +99,9 @@ $data = array(
             );
 $context = stream_context_create($data);
 $response = file_get_contents($requestUri, 0, $context);
-$response=json_decode($response);
-echo "<pre>";
-print_r($response);
-echo "</pre>";
+
+$response=json_decode($response,true);
+$collection->insert(array($e["text"]=>$response));
 
 	
 		
