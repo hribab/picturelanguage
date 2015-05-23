@@ -152,8 +152,8 @@ echo "<h1>Keywords</h1></br>";
 	for($i=0;$i<5;$i++)
 	{	
 		echo "</br>";
-		echo "test";
 		echo $alckeywordarr["keywords"][$i]["text"];
+		echo "</br>";
 		$query = $alckeywordarr["keywords"][$i]["text"];
 		$serviceOp ='Image';
 		$market ='en-us';
