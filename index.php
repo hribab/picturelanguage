@@ -152,6 +152,7 @@ if ($alcResponseArr['status'] == 'OK')
 echo "</br></br></br>";
 echo "<h1>Keywords</h1></br>";
 
+	if(count($alckeywordarr["keywords"]) > 5){
 	for($i=0;$i<5;$i++)
 	{	
 		echo "</br>";
@@ -179,6 +180,7 @@ echo "<h1>Keywords</h1></br>";
 			echo "<img src='".$response["d"]["results"][$j]["MediaUrl"]."' width='200' height='200' >";
 		}
 		echo "</br>";
+		}
 		}
 	
 echo "<h1> Goal is to give you single minimal image that conveys what text exactly mean</h1> ";
