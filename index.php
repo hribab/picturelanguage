@@ -1,6 +1,9 @@
 
 <?php
 
+ignore_user_abort(true);
+ini_set('max_execution_time', 10000);
+
 if(!isset($_POST["text"])){
 ?>
 <h1> Enter Text for image </h1>
