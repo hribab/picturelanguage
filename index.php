@@ -1,6 +1,8 @@
 
 <?php
 
+echo "picturelangauge";
+echo "</br>";
 ignore_user_abort(true);
 ini_set('max_execution_time', 10000);
 
