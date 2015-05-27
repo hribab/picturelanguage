@@ -7,17 +7,16 @@
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 	<style>
 	#circle {
-    background: #f00;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    color:black;
-   
-}
-.innerTEXT{
-    position:absolute;
-    top:80px;
-    left:60px;
+	background-color:#EEE;
+    border:solid thick #000;
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    padding:0 4%;
+    overflow:hidden;
+    display:table-cell;
+    text-align:center;
+    vertical-align:middle;
 }
 	</style>
   </head>
@@ -158,26 +157,27 @@ if ($alcResponseArr['status'] == 'OK')
 	{
 	foreach ($alcResponseArr['relations'] as $relation) {
 		
-	?>	<div id="circle">
+	?>	<div>
+	<div id="circle">
   <?php
 		if (array_key_exists('subject', $relation)) {
-			echo   '<span class="innerTEXT">'.$relation['subject']['text'];
+			echo  $relation['subject']['text'];
 			
 					}
-			?> </span>
-</div><div id="circle">
+			?> </div>
+<div id="circle">
 			<?php 
 		if (array_key_exists('action', $relation)) {
-			echo '<span class="innerTEXT">'.$relation['action']['text'];
+			echo $relation['action']['text'];
 					}
 				
-			?>	</span>
-</div><div id="circle"><?php
+			?>	</div>
+<div id="circle"><?php
 						
 		if (array_key_exists('object', $relation)) {
-		echo	'<span class="innerTEXT">'.$relation['object']['text'];
+		echo	$relation['object']['text'];
 					}
-				?>	</span>
+				?>	
 </div><?php	
 		echo "</br></br>";
 	}
