@@ -165,6 +165,7 @@ if ($alcResponseArr['status'] == 'OK')
 			
 					}
 			?> </div>
+			<i class="fa fa-arrows-h fa-6"></i>
 <div id="circle">
 			<?php 
 		if (array_key_exists('action', $relation)) {
@@ -172,6 +173,7 @@ if ($alcResponseArr['status'] == 'OK')
 					}
 				
 			?>	</div>
+			<i class="fa fa-arrows-h fa-6"></i>
 <div id="circle"><?php
 						
 		if (array_key_exists('object', $relation)) {
