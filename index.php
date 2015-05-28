@@ -185,7 +185,8 @@ echo "<h1>Keywords</h1></br>";
 		}
 		}
 	
-echo "<h1> Goal is to give you single minimal image that conveys what text exactly mean</h1> ";
+	echo "</br>";
+echo "<h3> We are working hard to generate single inforgraphic for the text, for suggession drop a mail to picturelanguge.in@gamil.com</h3> ";
 	
 	}
 	
