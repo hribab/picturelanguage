@@ -1,4 +1,11 @@
-
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  </head>
 <?php
 
 echo "Picturelangauge";
@@ -136,18 +143,24 @@ if ($alcResponseArr['status'] == 'OK')
 	{
 	foreach ($alcResponseArr['relations'] as $relation) {
 		
+		<i class="fa fa-circle-o">
 		if (array_key_exists('subject', $relation)) {
-			echo "Subject --".$relation['subject']['text']."</br> ";
+			echo $relation['subject']['text'];
 			
 					}
-				
+		</i>
+<i class="fa fa-underline">
 		if (array_key_exists('action', $relation)) {
-			echo "Action --".$relation['action']['text']."</br> ";
+			echo $relation['action']['text'];
 					}
 				
+				</i>	
+<i class="fa fa-circle-o">
+						
 		if (array_key_exists('object', $relation)) {
-			echo "Object --".$relation['object']['text']."</br> ";
+			$relation['object']['text'];
 					}
+					</i>	
 		echo "</br></br>";
 	}
 	}
@@ -197,3 +210,5 @@ echo "<h3> For suggession drop a mail to picturelanguge.in@gamil.com</h3> ";
 	
 	
 ?>
+
+</html>
