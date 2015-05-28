@@ -5,6 +5,21 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<style>
+	#circle {
+    background: #f00;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    color:black;
+   
+}
+.innerTEXT{
+    position:absolute;
+    top:80px;
+    left:60px;
+}
+	</style>
   </head>
 <?php
 
@@ -143,24 +158,27 @@ if ($alcResponseArr['status'] == 'OK')
 	{
 	foreach ($alcResponseArr['relations'] as $relation) {
 		
-	?>	<i class="fa fa-circle-o"><?php
+	?>	<div id="circle">
+  <?php
 		if (array_key_exists('subject', $relation)) {
-			echo $relation['subject']['text'];
+			echo   '<span class="innerTEXT">'.$relation['subject']['text'];
 			
 					}
-			?></i>
-<i class="fa fa-underline"><?php 
+			?> </span>
+</div><div id="circle">
+			<?php 
 		if (array_key_exists('action', $relation)) {
-			echo $relation['action']['text'];
+			echo '<span class="innerTEXT">'.$relation['action']['text'];
 					}
 				
-			?>	</i>	
-<i class="fa fa-circle-o"><?php
+			?>	</span>
+</div><div id="circle"><?php
 						
 		if (array_key_exists('object', $relation)) {
-			$relation['object']['text'];
+		echo	'<span class="innerTEXT">'.$relation['object']['text'];
 					}
-				?>	</i><?php	
+				?>	</span>
+</div><?php	
 		echo "</br></br>";
 	}
 	}
