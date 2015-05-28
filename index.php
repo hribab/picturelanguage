@@ -143,24 +143,24 @@ if ($alcResponseArr['status'] == 'OK')
 	{
 	foreach ($alcResponseArr['relations'] as $relation) {
 		
-		<i class="fa fa-circle-o">
+	?>	<i class="fa fa-circle-o"><?php
 		if (array_key_exists('subject', $relation)) {
 			echo $relation['subject']['text'];
 			
 					}
-		</i>
-<i class="fa fa-underline">
+			?></i>
+<i class="fa fa-underline"><?php 
 		if (array_key_exists('action', $relation)) {
 			echo $relation['action']['text'];
 					}
 				
-				</i>	
-<i class="fa fa-circle-o">
+			?>	</i>	
+<i class="fa fa-circle-o"><?php
 						
 		if (array_key_exists('object', $relation)) {
 			$relation['object']['text'];
 					}
-					</i>	
+				?>	</i><?php	
 		echo "</br></br>";
 	}
 	}
